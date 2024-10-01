@@ -3,6 +3,21 @@
 Refresh your coding skills! 🌈
 
 
+## Hilfsmittel
+
+- Coding Train Tutorials: 
+	- [Nested Loops](https://www.youtube.com/watch?v=1c1_TMdf8b8) um Grids zu erstellen.
+	- [Polar-Coordinates](https://www.youtube.com/watch?v=N633bLi_YCw) um im Kreis zu zeichnen.
+	- [Conditional Statements](https://www.youtube.com/watch?v=1Osb_iGDdjk) für If/Else.
+	- [Arrays](https://www.youtube.com/watch?v=VIQoUghHSxU) in Javascript.
+	- [Arrays & Loops](https://www.youtube.com/watch?v=RXWO3mFuW-I) in Javascript.
+	- [Functions](https://www.youtube.com/watch?v=wRHAitGzBrg) in Javascript.
+- P5js [Reference Page](https://p5js.org/reference/)
+- D3 [Reference Page](https://d3js.org/getting-started)
+- DD+A Github[ Code Sketchbook](https://github.com/hslu-dda/dda-sketchbook)
+- DD+A Github Data [Handling Repository](https://github.com/hslu-dda/data-handling)
+
+
 ## Übung 1: Grundlagen Zeichnen
 
 - Zeichne 16 Kreise in einem regelmäßigen Raster, gleichmäßig auf dem Canvas verteilt.
@@ -103,16 +118,3 @@ Tipps:
 - In den meisten Fällen wirst du die Funktion `d3.json` verwenden können.
 
 
-## Hilfsmittel
-
-- Coding Train Tutorials: 
-	- [Nested Loops](https://www.youtube.com/watch?v=1c1_TMdf8b8) um Grids zu erstellen.
-	- [Polar-Coordinates](https://www.youtube.com/watch?v=N633bLi_YCw) um im Kreis zu zeichnen.
-	- [Conditional Statements](https://www.youtube.com/watch?v=1Osb_iGDdjk) für If/Else.
-	- [Arrays](https://www.youtube.com/watch?v=VIQoUghHSxU) in Javascript.
-	- [Arrays & Loops](https://www.youtube.com/watch?v=RXWO3mFuW-I) in Javascript.
-	- [Functions](https://www.youtube.com/watch?v=wRHAitGzBrg) in Javascript.
-- P5js [Reference Page](https://p5js.org/reference/)
-- D3 [Reference Page](https://d3js.org/getting-started)
-- DD+A Github[ Code Sketchbook](https://github.com/hslu-dda/dda-sketchbook)
-- DD+A Github Data [Handling Repository](https://github.com/hslu-dda/data-handling)
