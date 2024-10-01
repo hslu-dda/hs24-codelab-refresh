@@ -108,7 +108,7 @@ Tipps:
 - Sieh dir den Bereich “Functions” in unserem [Data Handling Repository](https://github.com/hslu-dda/data-handling) auf Github an. Du kannst sowohl eine normale Schleife als auch ein forEach verwenden.
 - Da sowohl Alter als auch Power-Level im Datensatz als Strings vorliegen, musst du sie zuerst in 
 
-## Übung 9: Dynamische Daten
+## Übung 9: Dynamische Daten (Freiwillig)
 
 - Wähle eine der öffentlichen APIs von [freepublicapis.com](https://www.freepublicapis.com/).
 - Erstelle eine kleine Datenvisualisierung, die du am 21.10. mitbringst, verwende nicht länger als 20 Minuten dafür. 
